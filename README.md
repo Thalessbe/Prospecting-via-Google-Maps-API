@@ -1,2 +1,12 @@
 # Prospecting-via-Google-Maps-API
  Automated searches for stores in Fortaleza, CE, and nearby areas are performed twice daily using Google Places API. Data is processed and sent to MongoDB Atlas for storage and to Trello for efficient information management.
+Esse projeto que finalizei em Python, integrado ao Airflow, realiza buscas automatizadas por lojas dentro de toda Fortaleza-CE e região metropolitana próximas utilizando a API do Google Places, agendadas para ocorrerem duas vezes ao dia. Os dados resultantes são processados e enviados tanto para o MongoDB Atlas, onde são armazenados para criar uma base centralizada de clientes atendidos, quanto para o Trello, onde são criados cartões para cada loja encontrada, permitindo uma gestão eficiente das informações.
+Essa automação não apenas centraliza e organiza os dados dos clientes, mas também otimiza o processo de vendas de diversas maneiras:
+Aumento do Funil de Vendas: Ao identificar e categorizar potenciais clientes através das lojas de roupas encontradas, o script alimenta o funil de vendas com um fluxo constante de leads qualificados.
+Aumento no Número de Vendas: Com um funil de vendas alimentado regularmente, há um aumento natural no número de oportunidades de vendas, impulsionando o crescimento das vendas.
+Foco na Atividade de Vendas: Ao automatizar tarefas de prospecção, a equipe de vendas pode direcionar seu tempo e esforço para atividades mais estratégicas e lucrativas, como o fechamento de negócios e o atendimento ao cliente.
+Eficiência Operacional: A automação elimina tarefas manuais repetitivas, permitindo que a equipe de vendas seja mais produtiva e focada em suas principais responsabilidades.
+
+Em resumo, essa automação integra tecnologias poderosas para fornecer dados relevantes e atualizados, permitindo uma abordagem mais estratégica e eficiente no setor de vendas. Ao aumentar o funil de vendas o processo comercial é otimizado assim liberarando tempo da equipe para atividades de alto valor, essa solução contribui significativamente para o crescimento e sucesso da empresa.
+
+Após concluir este projeto e ficar satisfeito com os resultados alcançados, decidi dedicar um post exclusivo a ele. Além do valioso aprendizado obtido durante o processo, estou animado para compartilhar os resultados. Como um toque final, pretendo criar um dashboard para visualização e acompanhamento dos dados, adicionando um toque especial ao projeto.
